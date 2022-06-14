@@ -6,7 +6,7 @@ Portfolio
 
 - 🔭 I’m currently working on **deep learning | Machine learning**
 
-- 👯 I’m looking to collaborate on **Emotion recognition using speech | Deep learning | NLP**
+- 👯 I’m looking to collaborate on **Medical image processing |Emotion recognition using speech | Deep learning | NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/researchdata17?tab=repositories](https://github.com/researchdata17?tab=repositories)
 
