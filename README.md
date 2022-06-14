@@ -14,7 +14,7 @@ Portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rabia_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabia_rao" height="30" width="40" /></a>
+<a href="https://twitter.com/[rabia_rao]https://www.linkedin.com/in/rabia-naseer-rao-a1a66411a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabia_rao" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rabia naseer rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabia naseer rao" height="30" width="40" /></a>
 <a href="https://kaggle.com/rabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rabia" height="30" width="40" /></a>
 <a href="https://fb.com/rabia rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabia rao" height="30" width="40" /></a>
